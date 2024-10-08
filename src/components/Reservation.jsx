@@ -31,7 +31,7 @@ const Reservation = () => {
       setFirstName("");
       setLastName("");
       setEmail("");
-      setPhone(0);
+      setPhone("");
       setDate("");
       setTime("");
       navigate("/success");
